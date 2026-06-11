@@ -6,8 +6,8 @@
 }
 
 :root {
-  --orange: #f49928;
-  --green: #8ca348;
+  --orange: #7E3C3A;
+  --green: #D4323D;
   /* Width of a hand (fixed, so the overlap stays consistent everywhere). */
   --hand-width: 140px;
   /* How far the fist overlaps onto the card (so it looks like it holds it).
